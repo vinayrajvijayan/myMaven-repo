@@ -1,0 +1,2 @@
+# myMaven-repo
+MyMavenProjectRepository
